@@ -1,1 +1,1 @@
-# this is a git demo from college lab
+# this is a git demo from college lab internal
